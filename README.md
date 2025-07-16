@@ -9,8 +9,8 @@ WHAT DOES IT DO?
   - Is resizable.
   - Sets the foreground color to red.
   - Closes the program when the window is closed.
-  - 
-  - HOW TO RUN:
+    
+   HOW TO RUN:
 1. Clone or download this repository.
 2. Open it in your Java IDE (e.g. NetBeans, IntelliJ, or Eclipse).
 3. Make sure the package `ac.tut.ui` exists (or adjust as needed).
